@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyToolBar">
+
+        <!-- 标题属性 -->
+        <attr name="showTitle" format="boolean" />
+        <attr name="textTitle" format="string" />
+        <attr name="titleTextSize" format="dimension" />
+        <attr name="titleTextColor" format="color" />
+        <!-- 左边按钮属性 -->
+        <attr name="leftButtonBackground" format="color" />
+        <attr name="leftButtonText" format="string" />
+        <attr name="leftButtonTextColor" format="color" />
+        <attr name="leftButtonTextSize" format="dimension" />
+        <!-- 右边按钮属性 -->
+        <attr name="rightButtonBackground" format="color" />
+        <attr name="rightButtonText" format="string" />
+        <attr name="rightButtonTextColor" format="color" />
+        <attr name="rightButtonTextSize" format="dimension" />
+    </declare-styleable>
+
+</resources>
